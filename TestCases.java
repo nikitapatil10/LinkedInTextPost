@@ -39,8 +39,8 @@ public class TestCases {
 
     
     public  void testCase01() throws InterruptedException, AWTException{
-       LinkedInPhotoUpload lp = new LinkedInPhotoUpload();
-       lp.linekedInPhotoUpload();
+       LinkedInTextPost lp = new LinkedInTextPost();
+       lp.linkedInTextPost();
     }
 
 
